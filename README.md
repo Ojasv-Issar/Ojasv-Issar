@@ -119,10 +119,6 @@ I’m open to:
 - Research & data science collaborations  
 - Climate-tech projects  
 - Technical discussions  
-
-📧 your.email@example.com  
-💼 https://linkedin.com/in/your-profile  
-
 ---
 
 <div align="center">

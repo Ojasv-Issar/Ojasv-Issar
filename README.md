@@ -27,7 +27,7 @@
 
 ## 👋 About Me
 
-I’m a **Master of Data Science student at the University of British Columbia** with a Computer Science background.  
+I’m a **Master of Data Science student at the University of British Columbia** with a background in Computer Science.  
 I work at the intersection of **data, systems, and real-world impact**, with a strong interest in:
 
 - Climate & environmental analytics  

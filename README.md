@@ -1,11 +1,11 @@
 <div align="center">
 
-# Ojasv Issar
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f2933&height=120&section=header&text=Ojasv%20Issar&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 
-**Master of Data Science @ UBC**  
-Data Science · Machine Learning · Climate Analytics
+### Master of Data Science @ UBC  
+**Data Science · Machine Learning · Climate Analytics**
 
-Vancouver, Canada
+📍 Vancouver, Canada  
 
 [LinkedIn](https://linkedin.com/in/your-profile) ·
 [Email](mailto:your.email@example.com) ·
@@ -15,117 +15,110 @@ Vancouver, Canada
 
 ---
 
-## About
+## 👋 About Me
 
-I’m a **Master of Data Science student at the University of British Columbia** with a background in Computer Science.  
-I enjoy working on problems where **data, systems, and real-world impact intersect**—especially in climate science, analytics, and scalable ML systems.
+I’m a **Master of Data Science student at the University of British Columbia** with a Computer Science background.  
+I work at the intersection of **data, systems, and real-world impact**, with a strong interest in:
 
-Currently focused on:
-- Applied machine learning & statistical modeling  
-- Climate and environmental data analysis  
-- Building reproducible, well-designed data products  
+- Climate & environmental analytics  
+- Applied machine learning  
+- Scalable, reproducible data systems  
 
----
-
-## Current Focus
-
-- **Studying**: Machine Learning, Statistical Inference, Data Engineering  
-- **Exploring**: MLOps, cloud-native ML pipelines, serverless architectures  
-- **Goal**: Build impactful projects and contribute to open-source data science tools  
+I value **clarity, rigor, and clean design**—in both code and analysis.
 
 ---
 
-## Tech Stack
+## 🎯 Current Focus
 
-**Languages**
-- Python · R · SQL · JavaScript
-
-**Data Science & ML**
-- Pandas · NumPy · scikit-learn  
-- TensorFlow · Jupyter  
-
-**Visualization & BI**
-- Power BI · Tableau  
-- Matplotlib  
-
-**Cloud & DevOps**
-- AWS · AWS Lambda  
-- Docker · Git  
+- 📚 Advanced machine learning & statistical modeling  
+- ☁️ Cloud-native ML pipelines and MLOps  
+- 🌍 Climate-focused data projects  
+- 🔓 Open-source contributions  
 
 ---
 
-## Selected Projects
-
-### Climate Change Forecasting
-_Time series modeling of global temperature trends_
-
-- ARIMA and LSTM models for long-term forecasting  
-- Analysis of historical climate patterns  
-- **Stack**: Python, Pandas, scikit-learn, Jupyter  
-
-🔗 https://github.com/Ojasv-Issar/Climate-Change-Forecasting
-
----
-
-### Netflix Analytics Dashboard
-_Interactive BI dashboard for content analysis_
-
-- Visualized insights across 8,000+ titles  
-- Advanced filtering and drill-down views  
-- **Stack**: Power BI, DAX  
-
-🔗 https://github.com/Ojasv-Issar/Netflix-Analytics-Dashboard-
-
----
-
-### NYC Airbnb Analysis
-_Exploratory data analysis of listing and pricing behavior_
-
-- Pricing trends, occupancy insights  
-- Geospatial visualizations  
-- **Stack**: Python, Pandas, Matplotlib  
-
-🔗 https://github.com/Ojasv-Issar/New-York-AIRBNB-Analysis
-
----
-
-### UBC Reddit Reporter (Contributor)
-_Serverless NLP pipeline for content summarization_
-
-- AWS Lambda + Bedrock  
-- Automated text processing workflows  
-- **Stack**: AWS SAM, Python, NLP  
-
-🔗 https://github.com/Vin-dictive/ubc-reddit-reporter
-
----
-
-## GitHub Activity
+## 🧰 Languages & Tools
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ojasv-Issar&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ojasv-Issar&layout=compact&hide_border=true)
+<img src="https://skillicons.dev/icons?i=python,r,sql,javascript,aws,docker,git,linux" />
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,jupyter,tableau" />
 
 </div>
 
 ---
 
-## Interests
+## 🚀 Featured Work
 
-- Climate & environmental data science  
-- Machine learning at scale  
-- Data visualization and storytelling  
-- Open-source and reproducible research  
+### 🌡 Climate Change Forecasting
+**Time-series modeling of global temperature trends**
+
+- ARIMA and LSTM forecasting models  
+- Long-term climate pattern analysis  
+- Emphasis on reproducibility  
+
+**Stack:** Python · Pandas · scikit-learn · Jupyter  
+
+🔗 https://github.com/Ojasv-Issar/Climate-Change-Forecasting
 
 ---
 
-## Contact
+### 📊 Netflix Analytics Dashboard
+**Interactive BI dashboard for content exploration**
 
-I’m always open to:
-- Data science collaborations  
-- Research discussions  
-- Climate tech projects  
+- 8,000+ titles analyzed  
+- Drill-down and filtering with DAX  
+- Business-oriented insights  
+
+**Stack:** Power BI · Data Modeling  
+
+🔗 https://github.com/Ojasv-Issar/Netflix-Analytics-Dashboard-
+
+---
+
+### 🏙 NYC Airbnb Analysis
+**Exploratory data analysis of pricing and demand**
+
+- Spatial and pricing trend analysis  
+- Visualization-first approach  
+
+**Stack:** Python · Pandas · Matplotlib  
+
+🔗 https://github.com/Ojasv-Issar/New-York-AIRBNB-Analysis
+
+---
+
+### ☁️ UBC Reddit Reporter (Contributor)
+**Serverless NLP content pipeline**
+
+- AWS Lambda + Bedrock  
+- Automated summarization workflows  
+
+**Stack:** AWS SAM · Python · NLP  
+
+🔗 https://github.com/Vin-dictive/ubc-reddit-reporter
+
+---
+
+## 📈 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ojasv-Issar&show_icons=true&hide_border=true&theme=transparent" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojasv-Issar&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 🤝 Let’s Connect
+
+I’m open to:
+- Research & data science collaborations  
+- Climate-tech projects  
+- Technical discussions  
 
 📧 your.email@example.com  
 💼 https://linkedin.com/in/your-profile  
@@ -136,6 +129,6 @@ I’m always open to:
 
 _Data tells stories. I focus on making them useful._
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ojasv-Issar&style=flat)
+<img src="https://komarev.com/ghpvc/?username=Ojasv-Issar&style=flat&color=gray" />
 
 </div>

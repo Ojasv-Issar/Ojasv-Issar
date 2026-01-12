@@ -7,8 +7,8 @@
 
 📍 Vancouver, Canada  
 
-[LinkedIn](https://linkedin.com/in/your-profile) ·
-[Email](mailto:your.email@example.com) ·
+[LinkedIn](https://www.linkedin.com/in/ojasvissar/) ·
+[Email](mailto:ojasvissar4@gmail.com) ·
 [GitHub](https://github.com/Ojasv-Issar)
 
 </div>

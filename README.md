@@ -1,117 +1,124 @@
+<!-- HERO -->
+
 <div align="center">
 
-```text
- _______ _________ _______  _______            _________ _______  _______  _______  _______ 
-(  ___  )\__    _/(  ___  )(  ____ \|\     /|  \__   __/(  ____ \(  ____ \(  ___  )(  ____ )
-| (   ) |   )  (  | (   ) || (    \/| )   ( |     ) (   | (    \/| (    \/| (   ) || (    )|
-| |   | |   |  |  | (___) || (_____ | |   | |     | |   | (_____ | (_____ | (___) || (____)|
-| |   | |   |  |  |  ___  |(_____  )( (   ) )     | |   (_____  )(_____  )|  ___  ||     __)
-| |   | |   |  |  | (   ) |      ) | \ \_/ /      | |         ) |      ) || (   ) || (\ (   
-| (___) ||\_)  )  | )   ( |/\____) |  \   /    ___) (___/\____) |/\____) || )   ( || ) \ \__
-(_______)(____/   |/     \|\_______)   \_/     \_______/\_______)\_______)|/     \||/   \__/
-```
-</div>
+### OJASV ISSAR
 
-### Master of Data Science @ UBC  
-**Data Science · Machine Learning · Climate Analytics**
+#### Data Scientist · GenAI & ML · Climate Analytics  
+_MDS @ University of British Columbia_
 
-📍 Vancouver, Canada  
+Vancouver, Canada · UTC−8  
 
 [LinkedIn](https://www.linkedin.com/in/ojasvissar/) ·
 [Email](mailto:ojasvissar4@gmail.com) ·
 [GitHub](https://github.com/Ojasv-Issar)
 
+---
+
+> I turn messy data and GenAI hype into models, dashboards, and tools that ship.
+
 </div>
 
 ---
 
-## 👋 About Me
+## 👋 Who I Am
 
-I’m a **Master of Data Science student at the University of British Columbia** with a background in Computer Science.  
-I work at the intersection of **data, systems, and real-world impact**, with a strong interest in:
+I’m Ojasv, a **Master of Data Science student at UBC** with a Computer Science + Data Science background.  
+I like problems where **data is chaotic, constraints are real, and the outcome is measurable**.
 
-- Climate & environmental analytics  
-- Applied machine learning  
-- Scalable, reproducible data systems  
+I bounce between:
 
-I value **clarity, rigor, and clean design**—in both code and analysis.
+- Building **ML & GenAI systems** end-to-end (from scraping and ETL to deployment).  
+- Doing **climate and urban analytics** that say something real about the world.  
+- Designing **clean, explainable artifacts** – dashboards, visualizations, and writeups people actually read.
 
----
-
-## 🎯 Current Focus
-
-- 📚 Advanced machine learning & statistical modeling  
-- ☁️ Cloud-native ML pipelines and MLOps  
-- 🌍 Climate-focused data projects  
-- 🔓 Open-source contributions  
+If it mixes **systems thinking, impact, and good design**, I’m interested.
 
 ---
 
-## 🧰 Languages & Tools
+## 🎯 What I’m Currently Doing
+
+- 📚 Sharpening **ML & statistical modeling** at scale.  
+- ☁️ Building **cloud-native ML pipelines** and learning the unglamorous parts: logging, monitoring, failures.  
+- 🌍 Working on **climate, urban, and social-data projects** that go beyond toy datasets.  
+- 💡 Exploring **LLMs, RAG, and evaluation** for real use cases, not just demos.
+
+---
+
+## 🧰 Tech I Actually Use
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,sql,javascript,aws,docker,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,r,sql,js,aws,docker,git,linux" />
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,jupyter,tableau" />
 
 </div>
 
+I’m comfortable going from **data collection → feature engineering → modeling → visualization → deployment**.  
+Tools are negotiable; **clarity and repeatability** are not.
+
 ---
 
-## 🚀 Featured Work
+## 🚀 Projects That Represent Me
 
 ### 🌡 Climate Change Forecasting
-**Time-series modeling of global temperature trends**
 
-- ARIMA and LSTM forecasting models  
-- Long-term climate pattern analysis  
-- Emphasis on reproducibility  
+> Forecasting global temperature trends instead of just plotting historical lines.
+
+- Modeled **long-term land temperature** using classic and modern time-series approaches.  
+- Focused on **reproducibility**: clean notebooks, versioned data, and transparent assumptions.  
+- Used forecasts to discuss **warming scenarios** rather than just model metrics.
 
 **Stack:** Python · Pandas · scikit-learn · Jupyter  
 
-🔗 https://github.com/Ojasv-Issar/Climate-Change-Forecasting
+🔗 [Repo](https://github.com/Ojasv-Issar/Climate-Change-Forecasting)
 
 ---
 
 ### 📊 Netflix Analytics Dashboard
-**Interactive BI dashboard for content exploration**
 
-- 8,000+ titles analyzed  
-- Drill-down and filtering with DAX  
-- Business-oriented insights  
+> Turning “I feel like Netflix is…” into actual numbers.
+
+- Analyzed **8,000+ titles** to surface patterns in genres, countries, and release timelines.  
+- Built an **interactive Power BI dashboard** for drilling into content by segment.  
+- Framed **business-style questions** (content gaps, regional focus) instead of just descriptive stats.
 
 **Stack:** Power BI · Data Modeling  
 
-🔗 https://github.com/Ojasv-Issar/Netflix-Analytics-Dashboard-
+🔗 [Repo](https://github.com/Ojasv-Issar/Netflix-Analytics-Dashboard-)
 
 ---
 
 ### 🏙 NYC Airbnb Analysis
-**Exploratory data analysis of pricing and demand**
 
-- Spatial and pricing trend analysis  
-- Visualization-first approach  
+> How did post-pandemic pricing really shift across New York’s boroughs?
+
+- Performed **EDA on 100k+ listings** to uncover demand, pricing, and neighborhood patterns.  
+- Combined **spatial and pricing analysis** to show where recovery accelerated or lagged.  
+- Focused on **visual-first storytelling** to keep insights non-specialist-friendly.
 
 **Stack:** Python · Pandas · Matplotlib  
 
-🔗 https://github.com/Ojasv-Issar/New-York-AIRBNB-Analysis
+🔗 [Repo](https://github.com/Ojasv-Issar/New-York-AIRBNB-Analysis)
 
 ---
 
 ### ☁️ UBC Reddit Reporter (Contributor)
-**Serverless NLP content pipeline**
 
-- AWS Lambda + Bedrock  
-- Automated summarization workflows  
+> A serverless pipeline that keeps UBC’s Reddit pulse in one place.
 
-**Stack:** AWS SAM · Python · NLP  
+- Helped build a **Lambda + Bedrock** workflow that ingests, categorizes, and summarizes posts.  
+- Treated Reddit as a **noisy signal** for student sentiment and surfaced it as structured summaries.  
+- Focused on **reliability, automation, and readable outputs**, not just model cleverness.
 
-🔗 https://github.com/Vin-dictive/ubc-reddit-reporter
+**Stack:** AWS SAM · AWS Lambda · Bedrock · Python · NLP  
+
+🔗 [Repo](https://github.com/Vin-dictive/ubc-reddit-reporter)
 
 ---
 
-## 📈 GitHub Overview
+## 📊 GitHub Snapshot
 
 <div align="center">
 
@@ -123,17 +130,20 @@ I value **clarity, rigor, and clean design**—in both code and analysis.
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Open To
 
-I’m open to:
-- Research & data science collaborations  
-- Climate-tech projects  
-- Technical discussions  
+- 🌎 Climate / environment & urban analytics work  
+- 📈 Data science & ML collaborations (research or applied)  
+- ☁️ Cloud / MLOps projects and GenAI experiments  
+- 🎓 Mentorship, study groups, or just talking shop
+
+If you’ve got **an interesting dataset, a half-formed idea, or a stubborn problem**, feel free to reach out.
+
 ---
 
 <div align="center">
 
-_Data tells stories. I focus on making them useful._
+_Data should be honest, useful, and a little bit beautiful._
 
 <img src="https://komarev.com/ghpvc/?username=Ojasv-Issar&style=flat&color=gray" />
 

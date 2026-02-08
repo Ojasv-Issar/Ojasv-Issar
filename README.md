@@ -1,77 +1,81 @@
-<!-- ================= TERMINAL PROFILE ================= -->
+<!-- ========================= TERMINAL PORTFOLIO README ========================= -->
 
 <div align="center">
 
-<!-- TYPING HEADER -->
+<!-- Typing Banner -->
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=FF9F1C&center=true&vCenter=true&width=600&lines=ojasv@github:~$+whoami;Ojasv+Issar+-+Data+Scientist;ML+%7C+GenAI+%7C+Cloud+%7C+Research" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FF8C00&center=true&width=700&lines=ojasv@github:~$+about;show+profile;portfolio+CLI+edition" />
 </h3>
 
-<!-- DARK ORANGE TERMINAL -->
-<div style="background-color:#0b0b0b; padding:24px; border-radius:14px; font-family:JetBrains Mono, monospace; color:#ff9f1c; max-width:900px; text-align:left; box-shadow:0 0 25px rgba(255,159,28,0.25);">
+<!-- DARK MODE TERMINAL -->
+<div style="background:#0a0a0a; padding:25px; border-radius:12px; font-family:JetBrains+Mono,monospace; color:#ff8c00; text-align:left; max-width:900px; box-shadow:0 0 30px rgba(255,140,0,0.25);">
 
 <pre style="margin:0;">
 
-┌──────────────────────────────────────────────────────────────┐
-│  ojasv@github:~$ cat about.txt                               │
-└──────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│ ojasv@github:~$ whoami                                       │
+└─────────────────────────────────────────────────────────────┘
 
-Ojasv Issar
-Data Scientist | MSc Data Science @ UBC
+Ojasv Issar — Data Scientist
+Master of Data Science @ University of British Columbia  
+ML | GenAI | Cloud | Research
 
-> Building intelligent systems that turn data into impact  
-> 2+ yrs consulting | 15+ projects | $50K+ revenue  
-> Springer LNNS Publication (ICICC 2026)
+┌─────────────────────────────────────────────────────────────┐
+│ ojasv@github:~$ about                                        │
+└─────────────────────────────────────────────────────────────┘
 
-┌──────────────────────────────────────────────────────────────┐
-│  ojasv@github:~$ ls skills/                                  │
-└──────────────────────────────────────────────────────────────┘
+Building ML solutions & climate forecasting systems.  
+2+ yrs consulting • 15+ projects • Springern LNNS publication. :contentReference[oaicite:1]{index=1}
 
-Python, R, SQL  
-PyTorch, TensorFlow, scikit-learn, XGBoost  
-GPT, Claude, Gemini, LangChain, RAG  
-AWS (Lambda, S3, Bedrock), Docker, Git  
-Snowflake, PostgreSQL, MongoDB, FAISS  
+Email: ojasvissar4@gmail.com  
+Phone: +1 604-831-5490  
+LinkedIn: https://linkedin.com/in/ojasvissar  
+GitHub: https://github.com/Ojasv-Issar
 
-┌──────────────────────────────────────────────────────────────┐
-│  ojasv@github:~$ ls projects/                                │
-└──────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│ ojasv@github:~$ experience                                   │
+└─────────────────────────────────────────────────────────────┘
 
-Reddit UBC Reporter      -> Serverless GenAI  
-Climate Forecasting     -> Time Series ML  
-Asteroid Hazard ML      -> 94% precision  
-Kitna Kharcha           -> Expense prediction  
-SneakerXchange          -> HCI Research  
+Graduate Teaching Assistant @ UBC  
+Data Scientist (Freelance)  
+Data Analyst Intern @ Quadrific Media  
+Data Engineering Researcher @ KG4ASTRA :contentReference[oaicite:2]{index=2}
 
-┌──────────────────────────────────────────────────────────────┐
-│  ojasv@github:~$ github stats                                │
-└──────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│ ojasv@github:~$ ls projects                                  │
+└─────────────────────────────────────────────────────────────┘
+
+Reddit UBC Reporter  
+Climate Change Forecasting  
+Asteroid Hazard Classification  
+SneakerXchange • HCI Platform :contentReference[oaicite:3]{index=3}
+
+┌─────────────────────────────────────────────────────────────┐
+│ ojasv@github:~$ github-stats                                 │
+└─────────────────────────────────────────────────────────────┘
 
 </pre>
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Ojasv-Issar&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ojasv-Issar&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-
 </div>
 
 <pre style="margin:0;">
 
-┌──────────────────────────────────────────────────────────────┐
-│  ojasv@github:~$ cat contact.txt                             │
-└──────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│ ojasv@github:~$ skills                                      │
+└─────────────────────────────────────────────────────────────┘
 
-LinkedIn : https://www.linkedin.com/in/ojasvissar  
-GitHub   : https://github.com/Ojasv-Issar  
-Email    : ojasvissar4@gmail.com  
+Python, R, SQL  
+PyTorch, TensorFlow, LangChain, RAG, AWS, Docker  
+Data Eng, ETL, Snowflake, PostgreSQL, MongoDB :contentReference[oaicite:4]{index=4}
 
-┌──────────────────────────────────────────────────────────────┐
-│  ojasv@github:~$ echo "Open to opportunities 🚀"             │
-└──────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│ ojasv@github:~$ echo "open to opportunities 🚀"             │
+└─────────────────────────────────────────────────────────────┘
 
-Open to opportunities 🚀
+open to opportunities 🚀
 
 </pre>
 
@@ -79,22 +83,29 @@ Open to opportunities 🚀
 
 <br>
 
-<!-- LIGHT ORANGE TERMINAL VARIANT -->
+<!-- LIGHT ORANGE VARIANT (COLLAPSIBLE) -->
 
 <details>
-<summary><b>☀ Light Orange Theme</b></summary>
+<summary><strong>🌅 Light Orange Terminal Theme</strong></summary>
 
-<div style="background-color:#1a0f05; padding:24px; border-radius:14px; font-family:JetBrains Mono, monospace; color:#ffd29d; max-width:900px; text-align:left; box-shadow:0 0 20px rgba(255,210,157,0.25);">
+<div style="background:#1b0f00; padding:24px; border-radius:12px; font-family:JetBrains+Mono,monospace; color:#ffd8a8; text-align:left; max-width:900px; box-shadow:0 0 20px rgba(255,216,168,0.25);">
 
 <pre>
 
 ojasv@github:~$ whoami
 Ojasv Issar — Data Scientist
 
-ojasv@github:~$ skills
-Python | ML | GenAI | AWS | Research
+ojasv@github:~$ experience
+UBC, Freelance, Quadrific, KG4ASTRA
 
-ojasv@github:~$ echo "Let’s build cool things."
+ojasv@github:~$ projects
+Reddit UBC Reporter
+Climate Forecasts
+Asteroid Hazard ML
+
+ojasv@github:~$ contact
+email: ojasvissar4@gmail.com
+linkedin: linkedin.com/in/ojasvissar
 
 </pre>
 
@@ -103,4 +114,4 @@ ojasv@github:~$ echo "Let’s build cool things."
 
 </div>
 
-<!-- ================= END TERMINAL PROFILE ================= -->
+<!-- ========================= END TERMINAL README ========================= -->

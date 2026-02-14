@@ -15,13 +15,19 @@
 
 </div>
 
-<br>
+<!-- Itachi GIF on the left -->
+<img align="left" alt="itachi-gif" width="250" src="Itachi.gif" style="margin-right: 20px;" />
 
-## Currently
+<!-- About Me Section -->
+<h3 align="left">💫 About Me</h3>
+<p align="left">
+  🌱 Currently pursuing Master’s in Data Science @ UBC.<br>
+  🔭 Working on serverless ML & GenAI applications.<br>
+  💬 Skilled in Python, R, SQL, PyTorch, TensorFlow, LangChain.<br>
+  ⚡ Interests: DS/AI/ML, Automation, Generative AI, Data Engineering.<br>
+  🎯 Passionate about building intelligent systems & open to collaboration.
+</p>
 
-Building serverless ML systems and generative AI applications · Published researcher (Springer LNNS, ICICC 2026) · Teaching Assistant @ UBC · Open to opportunities
-
-<br>
 
 ## Selected Work
 

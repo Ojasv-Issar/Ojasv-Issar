@@ -42,9 +42,14 @@
 <br/>
 
 <!-- About Me Section with Itachi GIF -->
-<img align="left" alt="itachi-coding" width="400" src="Itachi.gif" />
+<table>
+<tr>
+<td width="45%">
+<img src="Itachi.gif" alt="itachi-coding" width="100%" />
+</td>
+<td width="55%">
 
-<h2>💫 About Me</h2>
+## 💫 About Me
 
 ```yaml
 current_role: Graduate Teaching Assistant @ UBC
@@ -67,7 +72,9 @@ achievements:
   - 95% satisfaction rate in mentoring
 ```
 
-<br clear="left"/>
+</td>
+</tr>
+</table>
 
 ---
 

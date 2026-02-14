@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="Rog%20Wallpaper%20Design%20On.gif" alt="Gaming GIF" width="1000" height="400"/>
-</div>
+![Gaming GIF](Rog%20Wallpaper%20Design%20On.gif)
+
 
 <div align="center">
 

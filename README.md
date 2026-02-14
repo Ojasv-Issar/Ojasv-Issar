@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnp2N2VhNHN3OXIyZGJ1enVvY2p2ZGdodGxsZnJmdzB4Y2xqNnk5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif" width="1000"/>
-</div>
+![gaming gif](Rog Wallpaper Design On.gif)
 
 <div align="center">
 

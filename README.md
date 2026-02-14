@@ -50,12 +50,6 @@ Languages        Python · R · SQL
 
 <br>
 
-## Research Interests
-
-Ethical AI Systems · Knowledge Graph Engineering · Serverless ML Architecture · Large Language Models
-
-<br>
-
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Ojasv-Issar&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF8C00&text_color=C9D1D9)

@@ -48,3 +48,5 @@ Languages        Python · R · SQL
 <sub>Last updated: February 2026 · Open to collaboration and opportunities</sub>
 
 </div>
+
+![Gaming GIF](Chill%20Mario%20On.gif)

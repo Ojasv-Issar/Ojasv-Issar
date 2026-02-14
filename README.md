@@ -90,6 +90,19 @@ achievements:
 
 ---
 
+</div>
+
+🛠️ Technical Arsenal
+<!-- Skill Icons -->
+<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,julia,go,matlab,html,css,js" /><br>
+  <img src="https://skillicons.dev/icons?i=latex,markdown,sql,postgres,mongodb,mysql,sqlite,git,github" /><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,docker,aws,gitlab,vscode" /><br>
+  <img src="https://skillicons.dev/icons?i=pycharm,jupyter,androidstudio,figma,postman,tableau,nodejs,react,nextjs" /><br>
+</div>
+<br/>
+
 ## 🛠️ Technical Arsenal
 
 <details open>

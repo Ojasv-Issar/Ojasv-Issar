@@ -1,4 +1,6 @@
-![Nature Japan Anime Night GIF](https://media1.tenor.com/m/9n_ZqBC2y_wAAAAC/nature-japan.gif)
+<div align="center">
+  <img src="https://media1.tenor.com/m/DtlRW-ln4-4AAAAC/moon-water.gif" width="600"/>
+</div>
 
 <div align="center">
 

@@ -1,4 +1,4 @@
-![gaming gif](Rog Wallpaper Design On.gif)
+![Gaming GIF](Rog%20Wallpaper%20Design%20On.gif)
 
 <div align="center">
 

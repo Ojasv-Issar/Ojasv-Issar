@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/DtlRW-ln4-4AAAAC/moon-water.gif" width="600"/>
+  <img src="https://media1.tenor.com/m/DtlRW-ln4-4AAAAC/moon-water.gif" width="6000"/>
 </div>
 
 <div align="center">

@@ -34,9 +34,6 @@
   <a href="https://github.com/Ojasv-Issar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="tel:+16048315490">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
-  </a>
 </div>
 
 <br/>
@@ -276,7 +273,6 @@ I'm actively seeking opportunities in:
 **Interested in working together?** Let's build something amazing!
 
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojasvissar4@gmail.com)
-[![Schedule Call](https://img.shields.io/badge/Schedule_Call-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ojasvissar)
 [![GitHub](https://img.shields.io/badge/Check_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ojasv-Issar)
 
 </div>

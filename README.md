@@ -1,4 +1,4 @@
-![Nature Japan Anime Night GIF](https://media.tenor.com/_your-direct-gif-url_.gif)
+![Nature Japan Anime Night GIF](https://media1.tenor.com/m/9n_ZqBC2y_wAAAAC/nature-japan.gif)
 
 <div align="center">
 

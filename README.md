@@ -12,6 +12,13 @@
   
 </div>
 
+### Name : Ojasv Issar
+
+-> Masters of Data Science at The University of British Columbia
+-> 4+ years of experience in Freelancing 
+-> I try to solve problems using Data Science 
+-> Currently creating Climate Aware Crop Yeild Production Models 
+
 <!-- Social Links -->
 <div align="center">
   <h3>🔗 Connect With Me</h3>

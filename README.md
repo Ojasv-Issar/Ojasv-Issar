@@ -12,12 +12,11 @@
   
 </div>
 
-### Name : Ojasv Issar
-
--> Masters of Data Science at The University of British Columbia
--> 4+ years of experience in Freelancing 
--> I try to solve problems using Data Science 
--> Currently creating Climate Aware Crop Yeild Production Models 
+**Ojasv Issar**  
+🎓 Master of Data Science @ The University of British Columbia  
+💼 4+ years of Freelancing Experience  
+🔬 Solving Real-World Problems with Data Science  
+🌾 Currently: Building Climate-Aware Crop Yield Prediction Models
 
 <!-- Social Links -->
 <div align="center">

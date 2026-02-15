@@ -3,6 +3,15 @@
   <img width="100%" src="Rog%20Wallpaper%20Design%20On.gif" alt="Header Animation"/>
 </div>
 
+<!-- Badges -->
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Ojasv-Issar&label=Profile%20Views&color=00FFFF&style=for-the-badge)
+  [![GitHub Stars](https://img.shields.io/github/stars/Ojasv-Issar?style=for-the-badge&label=Stars&color=FF10F0&logo=github)](https://github.com/Ojasv-Issar?tab=repositories&sort=stargazers)
+  [![GitHub Followers](https://img.shields.io/github/followers/Ojasv-Issar?style=for-the-badge&label=Followers&color=9D00FF&logo=github)](https://github.com/Ojasv-Issar?tab=followers)
+  
+</div>
+
 <h1 align="center">Hi 👋 I'm Ojasv Issar</h1>
 
 <p align="center">
@@ -11,14 +20,7 @@
   <em>Master of Data Science @ University of British Columbia</em>
 </p>
 
-<!-- Badges -->
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Ojasv-Issar&label=Profile%20Views&color=FF8C00&style=for-the-badge)
-  [![GitHub Stars](https://img.shields.io/github/stars/Ojasv-Issar?style=for-the-badge&label=Stars&color=FFD700&logo=github)](https://github.com/Ojasv-Issar?tab=repositories&sort=stargazers)
-  [![GitHub Followers](https://img.shields.io/github/followers/Ojasv-Issar?style=for-the-badge&label=Followers&color=FF8C00&logo=github)](https://github.com/Ojasv-Issar?tab=followers)
-  
-</div>
+
 
 <!-- Social Links -->
 <div align="center">

@@ -38,42 +38,18 @@
 
 <br/>
 
+
 <!-- About Me Section with Itachi GIF -->
-<table>
-<tr>
-<td width="45%">
-<img src="Itachi.gif" alt="itachi-coding" width="100%" />
-</td>
-<td width="55%">
+<img align="left" alt="itachi-coding" width="400" src="Itachi.gif" />
 
 ## 💫 About Me
 
-```yaml
-current_role: Graduate Teaching Assistant @ UBC
-education: Master of Data Science (2025-Present)
-location: Vancouver, BC, Canada
-background: BTech in Computer Science & Data Science
-experience: 
-  - Freelance Data Scientist (2+ years)
-  - Data Analyst Intern @ Quadrific Media
-  - Data Engineering Researcher @ KG4ASTRA
-focus_areas:
-  - Machine Learning & Deep Learning
-  - Generative AI & LLM Applications
-  - Data Engineering & MLOps
-  - Computer Vision & NLP
-achievements:
-  - 15+ clients served as freelance consultant
-  - $50K+ revenue generated
-  - Published research paper (ICICC 2026)
-  - 95% satisfaction rate in mentoring
-```
+🎓 Pursuing Master of Data Science @ UBC | Graduate Teaching Assistant<br>
+💼 Freelance Data Scientist | 50+ clients served <br>
+🤖 Specialized in ML/DL, GenAI, LLMs, RAG Pipelines & Multi-Agent Systems<br>
+📝 Published Researcher | ICICC 2026 | Building intelligent systems at scale<br>
 
-</td>
-</tr>
-</table>
-
----
+<br clear="left"/>
 
 </div>
 

@@ -91,43 +91,19 @@ achievements:
 ---
 
 </div>
-
-🛠️ Technical Arsenal
 <!-- Skill Icons -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,c,go,java,js,html,css" /><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,git,github,gitlab,docker" /><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,nodejs,react,nextjs,tailwind,bootstrap,figma" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,postman,linux,ubuntu,bash,powershell,vim" /><br>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,r,anaconda,opencv,aws,azure" /><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,nodejs,react,nextjs" /><br>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,latex,markdown,figma,postman" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,gitlab,linux,ubuntu,bash,powershell,vim" /><br>
 </div>
-<!-- Additional Tools Badges -->
+<!-- Additional Data Science Tools -->
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-</div>
-<br/>
-
-</div>
-
-🛠️ Technical Arsenal
-<!-- Skill Icons -->
-<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,java,go,js,html,css,latex" /><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,git,github,gitlab,docker" /><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,aws,azure,nodejs,react,nextjs,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,figma,vscode,pycharm,androidstudio,postman,linux,ubuntu,bash" /><br>
-  <img src="https://skillicons.dev/icons?i=powershell,vim,anaconda,opencv,markdown" /><br>
 </div>
 <br/>
 

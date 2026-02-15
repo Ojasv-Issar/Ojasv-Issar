@@ -96,7 +96,7 @@ achievements:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,r,anaconda,opencv,aws,azure" /><br>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,nodejs,react,nextjs" /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,latex,markdown,figma,postman" /><br>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,latex,markdown,figma,julia" /><br>
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,gitlab,linux,ubuntu,bash,powershell,vim" /><br>
 </div>
 <!-- Additional Data Science Tools -->

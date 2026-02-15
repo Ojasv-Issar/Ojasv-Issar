@@ -12,16 +12,6 @@
   
 </div>
 
-<h1 align="center">Hi 👋 I'm Ojasv Issar</h1>
-
-<p align="center">
-  <strong>Data Scientist | ML Engineer | GenAI & LLM Enthusiast</strong><br>
-  Building intelligent systems at the intersection of Machine Learning & Generative AI<br>
-  <em>Master of Data Science @ University of British Columbia</em>
-</p>
-
-
-
 <!-- Social Links -->
 <div align="center">
   <h3>🔗 Connect With Me</h3>
@@ -48,14 +38,6 @@
 
 
 <div align="center">
-  
-## 📊 GitHub Analytics
-
-<img width="75%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ojasv-Issar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF8C00&text_color=C9D1D9&count_private=true" />
-
-<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ojasv-Issar&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF8C00&line=FF8C00&point=FFD700" />
-
-</div>
 
 <!-- Footer GIF -->
 <div align="center">

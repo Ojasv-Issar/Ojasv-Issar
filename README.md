@@ -75,35 +75,16 @@ achievements:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Reddit UBC Reporter](https://github.com/Ojasv-Issar)** | Serverless AI system processing 1000+ posts weekly with automated categorization & summarization | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-181818?style=flat) |
-| **[Climate Forecasting ML](https://github.com/Ojasv-Issar)** | Analyzed 250 years of temperature data; predicted 2030 warming trends using SVR | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| **[Asteroid Hazard Classifier](https://github.com/Ojasv-Issar)** | 94% precision ML model analyzing 90K+ asteroids from NASA JPL database | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat) ![RandomForest](https://img.shields.io/badge/RF-green?style=flat) |
-| **[SneakerXchange](https://github.com/Ojasv-Issar)** | HCI-driven platform with WCAG 2.1 compliance; accepted at ICICC 2026 | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![UX](https://img.shields.io/badge/UX-purple?style=flat) |
-
 </div>
 
----
-
-</div>
+🛠️ Technical Arsenal
 <!-- Skill Icons -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,r,anaconda,opencv,aws,azure" /><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,nodejs,react,nextjs" /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,latex,markdown,figma,julia" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,androidstudio,gitlab,linux,ubuntu,bash,powershell,vim" /><br>
-</div>
-<!-- Additional Data Science Tools -->
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv,r,ai,aws,azure,anaconda" /><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,githubactions,flask,netlify" /><br>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,react,html,css,md,julia,go" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,figma,matlab,bash,obsidian,raspberrypi,stackoverflow" /><br>
 </div>
 <br/>
 
